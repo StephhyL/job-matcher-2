@@ -6,7 +6,7 @@ For the correct information to be displayed, the following must be typed exactly
 
 ## Final Product
 
-![demo](https://github.com/StephhyL/lumiq-take-home-exercise/blob/main/docs/jobMatcherDemo.gif)
+![demo](https://github.com/StephhyL/job-matcher-2/blob/main/docs/finalProduct.png)
 
 ## Getting Started
 
